@@ -8,4 +8,5 @@ It is important for us to tract how frequent people view pages on this site and 
 The data is available in the Data.CDC.gov site
 
 It was approved and put there by CDC
+
 The link to the dataset is https://data.cdc.gov/api/views/rq85-buyi/rows.csv?accessType=DOWNLOAD&bom=true&format=true.csv
